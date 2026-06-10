@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Python env
+venv/
+.env
+
+# Arduino
+*.elf
+*.bin
+*.hex
+
+# PlatformIO
+.pio/
+
+# VS Code
+.vscode/
+
+# Data and outputs
+/data/
+/outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
