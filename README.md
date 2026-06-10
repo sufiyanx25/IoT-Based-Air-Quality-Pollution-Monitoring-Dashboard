@@ -2,6 +2,9 @@
 
 Student project: ESP32-based air quality & pollution monitoring with simulation, dashboard, and reporting.
 
+[![Dashboard screenshot](images/dashboard_chart.png)](images/dashboard_chart.png)
+
+
 Overview
 This repository contains everything needed to build, simulate, and demonstrate an IoT air-quality monitoring system suitable for a student portfolio.
 
